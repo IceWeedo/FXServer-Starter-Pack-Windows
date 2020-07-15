@@ -1,4 +1,4 @@
-## FXServer Starter Pack
+## FiveM FXServer Starter Pack
 Pack FXServer pré-configuré pour Windows
 
 ## - Base
