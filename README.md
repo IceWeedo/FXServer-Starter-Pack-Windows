@@ -12,6 +12,7 @@ Pack FXServer pré-configuré pour Windows
 * esx_menu_list 1.0.1
 * esx_menu_dialog 1.1.0
 * nb_menuperso 2.5.0
+* gcphone 2.21.0
 
 ## - Installation
 * Extraire l'archive
