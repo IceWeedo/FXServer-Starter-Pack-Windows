@@ -7,7 +7,7 @@ Pack FXServer pré-configuré pour Windows
 ## - Installation
 * Extraire l'archive
 * Installer les redistribuables
-  * (FXServer\_commonredist\vcredist\)
+  * (FXServer\commonredist\vcredist\)
 * Importer la base de données dans Xampp, MariaDB...
   * (FXServer\sql\fxserver.sql)
 * Modifier le fichier server.cfg avec vos informations MySQL, Nom du serveur, Clé FiveM...
