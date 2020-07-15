@@ -12,7 +12,3 @@ Pack FXServer pré-configuré pour Windows
   * (FXServer\server-data\server.cfg)
 * Lancer run.bat
   * (FXServer\server-data\run.bat)
-
-## - Télécharger
-* [Google Drive]()
-* [MEGA]()
