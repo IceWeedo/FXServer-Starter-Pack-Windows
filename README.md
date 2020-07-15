@@ -8,9 +8,9 @@ Pack FXServer pré-configuré pour Windows
 * mysql-async 3.3.1
 * async 1.0.1
 * es_extended - 1.2.0 Final
-  * esx_menu_default 1.0.3
-  * esx_menu_list 1.0.1
-  * esx_menu_dialog 1.1.0
+* esx_menu_default 1.0.3
+* esx_menu_list 1.0.1
+* esx_menu_dialog 1.1.0
 * nb_menuperso 2.5.0
 
 ## - Installation
