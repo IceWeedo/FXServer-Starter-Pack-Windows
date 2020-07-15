@@ -8,7 +8,7 @@ Pack FXServer pré-configuré pour Windows
 * Extraire l'archive
 * Installer les redistribuables
   * (FXServer\commonredist\vcredist\)
-* Modifier le fichier server.cfg avec vos informations MySQL, Nom du serveur, Clé FiveM...
+* Modifier le fichier server.cfg avec vos informations Nom du serveur, Clé FiveM, API Steam...
   * (FXServer\server-data\server.cfg)
 * Ouvrire le port 30120 en TCP/UDP dans le pare-feu Windows et votre box internet
 * Lancer run.bat
