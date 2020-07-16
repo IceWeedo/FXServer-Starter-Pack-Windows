@@ -47,4 +47,4 @@ Pack FXServer pré-configuré pour Windows
 ### Droit administrateur:
 * Dans la base de données **fxserver** table **users** colonne **group** remplacer **user** par **admin**
 
-![Alt Text](https://i.ibb.co/pQBJB8r/admin.png)
+![Alt Text](https://i.ibb.co/r3R4RSf/admin.png)
