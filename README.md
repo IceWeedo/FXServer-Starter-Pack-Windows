@@ -38,7 +38,7 @@ Pack FXServer pré-configuré pour Windows
   * (FXServer\server-data\run.bat)
 
 ## - En jeu
-### Fonctionnalité:
+### Fonctionnalité (touche):
 * Console: **F8**
 * Menu Personnel: **F5**
 * Téléphone: **F2**
