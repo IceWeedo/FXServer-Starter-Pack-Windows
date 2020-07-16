@@ -28,7 +28,7 @@ Pack FXServer pré-configuré pour Windows
   (Start)
   
 ### Serveur:
-* Télécharger l'archive [ici](https://www.google.com)
+* Télécharger l'archive [ici](https://github.com/IceWeedo/FiveM-FXServer-Starter-Pack/releases/latest)
 * Extraire l'archive à la racine de votre disque local C:
   (C:\FXServer)
 * Modifier le fichier server.cfg avec vos informations: Nom du serveur, Clé FiveM, API Steam...
