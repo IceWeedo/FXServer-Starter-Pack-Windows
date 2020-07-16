@@ -43,6 +43,6 @@ Pack FXServer pré-configuré pour Windows
 * Menu Personnel: **F5**
 * Téléphone: **F2**
 
-## - Autre
+## - Autres
 ### Droit administrateur:
-* Dans la base de données **fxserver** table **users** colonne **group** remplacer **User** par **admin**
+* Dans la base de données **fxserver** table **users** colonne **group** remplacer **user** par **admin**
