@@ -42,3 +42,7 @@ Pack FXServer pré-configuré pour Windows
 * Console: **F8**
 * Menu Personnel: **F5**
 * Téléphone: **F2**
+
+## - Autre
+### Droit administrateur:
+* Dans la base de données **fxserver** table **users** colonne **group** remplacer **User** par **admin**
