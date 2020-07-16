@@ -30,7 +30,7 @@ Pack FXServer pré-configuré pour Windows
 ### Serveur:
 * Télécharger l'archive [ici](https://github.com/IceWeedo/FiveM-FXServer-Starter-Pack/releases/latest)
 * Extraire l'archive à la racine de votre disque local C:
-  (C:\FXServer)
+  * (C:\FXServer)
 * Modifier le fichier server.cfg avec vos informations: Nom du serveur, Clé FiveM, API Steam...
   * (FXServer\server-data\server.cfg)
 * Ouvrire le port 30120 en TCP/UDP dans le pare-feu Windows et votre box internet
