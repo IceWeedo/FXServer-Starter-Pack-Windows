@@ -2,7 +2,8 @@
 Pack FXServer pré-configuré pour Windows
 
 ## - Base
-* FXServer Build 2430 - 15/07/2020
+* FXServer Build 2430
+* Xampp 7.4.7
 
 ## - Resources
 * mysql-async 3.3.1
@@ -15,12 +16,22 @@ Pack FXServer pré-configuré pour Windows
 * gcphone 2.21.0
 
 ## - Installation
-* Extraire l'archive
+### Base de données:
+* Télécharger l'archive [ici](https://www.google.com)
+* Extraire l'archive à la racine de votre disque local C:
+  (C:\xampp)
 * Installer les redistribuables
-  * (FXServer\commonredist\vcredist\)
-* Importer la base de données es_extended.sql dans Xampp, MariaDB...
-  * (FXServer\sql\es_extended.sql)
-* Modifier le fichier server.cfg avec vos informations MySQL, Nom du serveur, Clé FiveM, API Steam...
+  * (xampp\commonredist\vcredist\)
+* Exécuter xampp-control
+  (xampp\xampp-control.exe)
+* Démarrer MySQL et Apache
+  (Start)
+  
+### Serveur:
+* Télécharger l'archive [ici](https://www.google.com)
+* Extraire l'archive à la racine de votre disque local C:
+  (C:\FXServer)
+* Modifier le fichier server.cfg avec vos informations: Nom du serveur, Clé FiveM, API Steam...
   * (FXServer\server-data\server.cfg)
 * Ouvrire le port 30120 en TCP/UDP dans le pare-feu Windows et votre box internet
 * Lancer run.bat
