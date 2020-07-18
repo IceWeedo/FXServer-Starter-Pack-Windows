@@ -8,16 +8,15 @@ Pack FXServer pré-configuré pour Windows
 ## - Resources
 * mysql-async **3.3.1**
 * async **1.0.1**
+* cron **1.0.0**
 * es_extended **1.2.0 Final**
-* esx_menu_default **1.0.3**
-* esx_menu_list **1.0.1**
+* esx_menu_default **1.0.4**
+* esx_menu_list **1.0.2**
 * esx_menu_dialog **1.1.0**
-* nb_menuperso **2.5.0**
-* gcphone **2.21.0**
 
 ## - Installation
 ### Base de données:
-* Télécharger l'archive [ici](https://mega.nz/file/AkFDmYoR#uYB1uV-vRZsDlxj5XXSKMeFJMJRT3xovh7x8wZC25G0)
+* Télécharger l'archive [ici](https://mega.nz/file/54FUyA6J#UNwKXX-RtIr_oUisaRWXtL5ztzpZA9QPGqfoPXsk4Rk)
 * Extraire l'archive à la racine de votre disque local **C:**
   * (C:\xampp)
 * Installer les redistribuables
@@ -40,8 +39,6 @@ Pack FXServer pré-configuré pour Windows
 ## - En jeu
 ### Fonctionnalité (touche):
 * Console: **F8**
-* Menu Personnel: **F5**
-* Téléphone: **F2**
 
 ## - Autres
 ### Droit administrateur:
