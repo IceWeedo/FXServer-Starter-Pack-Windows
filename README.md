@@ -40,6 +40,7 @@ Pack FXServer pré-configuré pour Windows
 ### Fonctionnalité
 * #### Touche:
   * Console: **F8**
+  * Inventaire: **F2**
 
 ## - Autres
 ### Droit administrateur
