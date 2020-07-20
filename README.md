@@ -37,7 +37,8 @@ Pack FXServer pré-configuré pour Windows
   * (FXServer\server-data\run.bat)
 
 ## - En jeu
-### Fonctionnalité (touche):
+### Fonctionnalité:
+#### Touche
 * Console: **F8**
 
 ## - Autres
