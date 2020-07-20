@@ -26,11 +26,11 @@ Pack FXServer pré-configuré pour Windows
 * Démarrer MySQL et Apache
   * (Start)
   
-### Serveur:
-* Télécharger l'archive [ici](https://github.com/IceWeedo/FiveM-FXServer-Starter-Pack/releases/latest)
-* Extraire l'archive à la racine de votre disque local **C:**
-  * (C:\FXServer)
-* Modifier le fichier **server.cfg** avec vos informations: Nom du serveur, [Clé FiveM](https://keymaster.fivem.net), [Clé API Steam](https://steamcommunity.com/dev/apikey)...
+* ### Serveur:
+  * Télécharger l'archive [ici](https://github.com/IceWeedo/FiveM-FXServer-Starter-Pack/releases/latest)
+  * Extraire l'archive à la racine de votre disque local **C:**
+    * (C:\FXServer)
+  * Modifier le fichier **server.cfg** avec vos informations: Nom du serveur, [Clé FiveM](https://keymaster.fivem.net), [Clé API Steam](https://steamcommunity.com/dev/apikey)...
   * (FXServer\server-data\server.cfg)
 * Ouvrire le port **30120** en **TCP/UDP** dans le pare-feu Windows et votre box internet
 * Exécuter run.bat
@@ -38,18 +38,18 @@ Pack FXServer pré-configuré pour Windows
 
 ## - En jeu
 ### Fonctionnalité:
-#### Touche
-* Console: **F8**
+* #### Touche
+  * Console: **F8**
 
 ## - Autres
 ### Droit administrateur:
-#### . FXServer
-* Connecté vous sur votre serveur 
-* Taper la commande **status** dans la cosole **CMD** du serveur
-* Ajouter la ligne **add_principal identifier.steam:xxxxxxxxxxxxxx group.admin** dans votre **server.cfg** section **# Add system admins**
-* Redémarrer votre serveur
+* #### FXServer
+  * Connecté vous sur votre serveur 
+  * Taper la commande **status** dans la cosole **CMD** du serveur
+  * Ajouter la ligne **add_principal identifier.steam:xxxxxxxxxxxxxx group.admin** dans votre **server.cfg** section **# Add system admins**
+  * Redémarrer votre serveur
 
-#### . ESX
-* Dans la base de données **fxserver** table **users** colonne **group** remplacer **user** par **superadmin**
+* #### . ESX
+  * Dans la base de données **fxserver** table **users** colonne **group** remplacer **user** par **superadmin**
 
 ![Alt Text](https://i.ibb.co/r3R4RSf/admin.png)
