@@ -42,6 +42,12 @@ Pack FXServer pré-configuré pour Windows
 
 ## - Autres
 ### Droit administrateur:
-* Dans la base de données **fxserver** table **users** colonne **group** remplacer **user** par **admin**
+### FXServer
+* Connecté sur votre serveur taper la commande **status** dans la cosole **CMD** du serveur
+* Ajouter la ligne **add_principal identifier.steam:xxxxxxxxxxxxxx group.admin** dans votre **server.cfg** section **# Add system admins**
+* Redémarrer votre serveur
+
+###ESX
+* Dans la base de données **fxserver** table **users** colonne **group** remplacer **user** par **superadmin**
 
 ![Alt Text](https://i.ibb.co/r3R4RSf/admin.png)
