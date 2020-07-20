@@ -15,26 +15,26 @@ Pack FXServer pré-configuré pour Windows
 * esx_menu_dialog **1.1.0**
 
 ## - Installation
-### Base de données:
-* Télécharger l'archive [ici](https://mega.nz/file/54FUyA6J#UNwKXX-RtIr_oUisaRWXtL5ztzpZA9QPGqfoPXsk4Rk)
-* Extraire l'archive à la racine de votre disque local **C:**
-  * (C:\xampp)
-* Installer les redistribuables
-  * (xampp\commonredist\vcredist\)
-* Exécuter xampp-control
-  * (xampp\xampp-control.exe)
-* Démarrer MySQL et Apache
-  * (Start)
+* ### Base de données:
+  * Télécharger l'archive [ici](https://mega.nz/file/54FUyA6J#UNwKXX-RtIr_oUisaRWXtL5ztzpZA9QPGqfoPXsk4Rk)
+  * Extraire l'archive à la racine de votre disque local **C:**
+    * (C:\xampp)
+  * Installer les redistribuables
+    * (xampp\commonredist\vcredist\)
+  * Exécuter xampp-control
+    * (xampp\xampp-control.exe)
+  * Démarrer MySQL et Apache
+    * (Start)
   
 * ### Serveur:
   * Télécharger l'archive [ici](https://github.com/IceWeedo/FiveM-FXServer-Starter-Pack/releases/latest)
   * Extraire l'archive à la racine de votre disque local **C:**
     * (C:\FXServer)
   * Modifier le fichier **server.cfg** avec vos informations: Nom du serveur, [Clé FiveM](https://keymaster.fivem.net), [Clé API Steam](https://steamcommunity.com/dev/apikey)...
-  * (FXServer\server-data\server.cfg)
-* Ouvrire le port **30120** en **TCP/UDP** dans le pare-feu Windows et votre box internet
-* Exécuter run.bat
-  * (FXServer\server-data\run.bat)
+    * (FXServer\server-data\server.cfg)
+  * Ouvrire le port **30120** en **TCP/UDP** dans le pare-feu Windows et votre box internet
+  * Exécuter run.bat
+    * (FXServer\server-data\run.bat)
 
 ## - En jeu
 ### Fonctionnalité:
