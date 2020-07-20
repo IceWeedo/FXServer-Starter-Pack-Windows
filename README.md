@@ -15,7 +15,7 @@ Pack FXServer pré-configuré pour Windows
 * esx_menu_dialog **1.1.0**
 
 ## - Installation
-* ### Base de données:
+* #### Base de données:
   * Télécharger l'archive [ici](https://mega.nz/file/54FUyA6J#UNwKXX-RtIr_oUisaRWXtL5ztzpZA9QPGqfoPXsk4Rk)
   * Extraire l'archive à la racine de votre disque local **C:**
     * (C:\xampp)
@@ -26,7 +26,7 @@ Pack FXServer pré-configuré pour Windows
   * Démarrer MySQL et Apache
     * (Start)
   
-* ### Serveur:
+* #### Serveur:
   * Télécharger l'archive [ici](https://github.com/IceWeedo/FiveM-FXServer-Starter-Pack/releases/latest)
   * Extraire l'archive à la racine de votre disque local **C:**
     * (C:\FXServer)
@@ -37,19 +37,19 @@ Pack FXServer pré-configuré pour Windows
     * (FXServer\server-data\run.bat)
 
 ## - En jeu
-### Fonctionnalité:
-* #### Touche
+### Fonctionnalité
+* #### Touche:
   * Console: **F8**
 
 ## - Autres
-### Droit administrateur:
-* #### FXServer
+### Droit administrateur
+* #### FXServer:
   * Connecté vous sur votre serveur 
   * Taper la commande **status** dans la cosole **CMD** du serveur
   * Ajouter la ligne **add_principal identifier.steam:xxxxxxxxxxxxxx group.admin** dans votre **server.cfg** section **# Add system admins**
   * Redémarrer votre serveur
 
-* #### . ESX
+* #### . ESX:
   * Dans la base de données **fxserver** table **users** colonne **group** remplacer **user** par **superadmin**
 
 ![Alt Text](https://i.ibb.co/r3R4RSf/admin.png)
