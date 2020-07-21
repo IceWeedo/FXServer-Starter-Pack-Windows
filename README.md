@@ -1,19 +1,19 @@
-## FiveM - FXServer Starter Pack
+## - FiveM - FXServer Starter Pack
 Pack FXServer pré-configuré pour Windows
 
 ## - Contenu du pack
-#### Base:
-* FXServer **Build 2430**
-* Xampp **7.4.7**
+* #### Base:
+  * FXServer **Build 2430**
+  * Xampp **7.4.7**
 
-#### Resources:
-* mysql-async **3.3.1**
-* async **1.0.1**
-* cron **1.0.0**
-* es_extended **1.2.0 Final**
-* esx_menu_default **1.0.4**
-* esx_menu_list **1.0.2**
-* esx_menu_dialog **1.1.0**
+* #### Resources:
+  * mysql-async **3.3.1**
+  * async **1.0.1**
+  * cron **1.0.0**
+  * es_extended **1.2.0 Final**
+  * esx_menu_default **1.0.4**
+  * esx_menu_list **1.0.2**
+  * esx_menu_dialog **1.1.0**
 
 ## - Installation
 * #### Base de données:
