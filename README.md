@@ -50,7 +50,7 @@ Pack FXServer pré-configuré pour Windows
   * Ajouter la ligne **add_principal identifier.steam:xxxxxxxxxxxxxx group.admin** dans votre **server.cfg** section **# Add system admins**
   * Redémarrer votre serveur
 
-* #### ESX:
+* #### ES eXtended:
   * Dans la base de données **fxserver** table **users** colonne **group** remplacer **user** par **superadmin**
 
 ![Alt Text](https://i.ibb.co/r3R4RSf/admin.png)
