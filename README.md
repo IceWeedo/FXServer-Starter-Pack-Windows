@@ -46,8 +46,8 @@ Pack FXServer pré-configuré pour Windows
 ### Droit administrateur
 * #### FXServer:
   * Connecté vous sur votre serveur 
-  * Taper la commande **status** dans la cosole **CMD** du serveur
-  * Ajouter la ligne **add_principal identifier.steam:xxxxxxxxxxxxxx group.admin** dans votre **server.cfg** section **# Add system admins**
+  * Dans la cosole du serveur **CMD Windows** taper la commande **status**
+  * Dans **server.cfg** section **# Add system admins** ajouter la ligne **add_principal identifier.steam:xxxxxxxxxxxxxx group.admin**
   * Redémarrer votre serveur
 
 * #### ES eXtended:
