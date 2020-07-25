@@ -17,7 +17,7 @@ Pack FXServer pré-configuré pour Windows
 
 ## - Installation
 * #### Base de données:
-  * Télécharger l'archive [ici](https://mega.nz/file/54FUyA6J#UNwKXX-RtIr_oUisaRWXtL5ztzpZA9QPGqfoPXsk4Rk)
+  * Télécharger l'archive [ici](https://mega.nz/file/5wMSHCRI#AVnEoai3SpDz5RpmbUArKBnLtJoQ66uMgHjx_54SLxM)
   * Extraire l'archive à la racine de votre disque local **C:**
     * (C:\xampp)
   * Installer les redistribuables
