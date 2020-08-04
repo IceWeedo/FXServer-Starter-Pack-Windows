@@ -6,7 +6,7 @@ Pack FXServer pré-configuré pour Windows
   * FXServer **Build 2430**
   * Xampp **7.4.7**
 
-* #### Resources:
+* #### Ressources:
   * mysql-async **3.3.2**
   * async **1.0.1**
   * cron **1.0.0**
