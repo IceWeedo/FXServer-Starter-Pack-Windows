@@ -7,10 +7,10 @@ Pack FXServer pré-configuré pour Windows
   * Xampp **7.4.7**
 
 * #### Ressources:
-  * mysql-async **3.3.2**
   * async **1.0.1**
+  * mysql-async **3.3.2**
   * cron **1.0.0**
-  * es_extended **1.2.0 Final**
+  * es_extended **V1 Final**
   * esx_menu_default **1.0.4**
   * esx_menu_list **1.0.2**
   * esx_menu_dialog **1.1.0**
