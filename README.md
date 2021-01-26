@@ -27,6 +27,7 @@ Pack FXServer pré-configuré pour Windows
     * (C:/xampp/xampp-control.exe)
   * Démarrer MySQL et Apache
     * (Start)
+![Alt Text](https://ibb.co/BwC1w8b)
   
 * #### Serveur:
   * Télécharger l'archive [ici](https://github.com/IceWeedo/FiveM-FXServer-Starter-Pack/releases/latest)
