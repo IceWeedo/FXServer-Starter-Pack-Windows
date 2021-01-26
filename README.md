@@ -60,6 +60,7 @@ Pack FXServer pré-configuré pour Windows
   * Redémarrer votre serveur
 
 * #### ES eXtended:
+  * Connecter vous au panel **phpMyAdmin** [ici](http://127.0.0.1/phpmyadmin/)
   * Dans la base de données **es_extended** table **users** colonne **group** remplacer **user** par **superadmin**
   
   ![Alt Text](https://i.ibb.co/vw8PvvY/xampp-admin.png)
