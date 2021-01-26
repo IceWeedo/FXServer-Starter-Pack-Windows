@@ -51,9 +51,7 @@ Pack FXServer pré-configuré pour Windows
   
   ![CMD](https://i.ibb.co/rc9Qhj5/txadmin-id.png)
   
-  * Ajouter la ou les lignes suivante dans le fichier **server.cfg** section **# Add system admins**
-    * (C:/FXServer/server.cfg)
-    
+  * Dans le fichier **server.cfg** (C:/FXServer/server.cfg) section **# Add system admins** ajouter la ou les lignes suivante
   * Utilisateur Steam:
     * **add_principal identifier.steam:xxxxxxxxxxxxxx group.admin**
     
