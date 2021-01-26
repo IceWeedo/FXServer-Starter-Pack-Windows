@@ -2,11 +2,13 @@
 Pack FXServer pré-configuré pour Windows
 
 
+
 ## - Contenu du pack
 * #### Base:
   * FXServer **Build 3404**
   * txAdmin **3.2.3**
   * Xampp **7.4.14**
+
 
 
 * #### Ressources:
@@ -17,6 +19,7 @@ Pack FXServer pré-configuré pour Windows
   * esx_menu_default **1.0.4**
   * esx_menu_list **1.0.2**
   * esx_menu_dialog **1.1.0**
+
 
 
 ## - Installation
@@ -35,7 +38,8 @@ Pack FXServer pré-configuré pour Windows
   
   ![xampp](https://i.ibb.co/rvwWvnY/xampp.png)
     
-    
+   
+   
 * #### Serveur:
   * Télécharger l'archive [ici](https://github.com/IceWeedo/FiveM-FXServer-Starter-Pack/releases/latest)
   * Extraire l'archive à la racine de votre disque local **C:**
@@ -47,6 +51,7 @@ Pack FXServer pré-configuré pour Windows
   * Ouvrire le port **30120** en **TCP/UDP** dans le pare-feu Windows et votre box internet
   * Exécuter run.bat
     * (C:/FXServer/run.bat)
+     
      
      
 ## - Droit administrateur
@@ -70,6 +75,7 @@ Pack FXServer pré-configuré pour Windows
   * Redémarrer votre serveur
 
 
+
 * #### ES eXtended:
   * Connecter vous au panel **phpMyAdmin** [ici](http://localhost/phpmyadmin/)
   
@@ -77,6 +83,8 @@ Pack FXServer pré-configuré pour Windows
   * Dans la base de données **es_extended** table **users** colonne **group** remplacer **user** par **superadmin**
   
   ![Alt Text](https://i.ibb.co/vw8PvvY/xampp-admin.png)
+
+
 
 ## - En jeu
 * #### Touche:
