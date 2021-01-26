@@ -38,15 +38,8 @@ Pack FXServer pré-configuré pour Windows
   * Ouvrire le port **30120** en **TCP/UDP** dans le pare-feu Windows et votre box internet
   * Exécuter run.bat
     * (C:/FXServer/run.bat)
-
-## - En jeu
-### Fonctionnalité
-* #### Touche:
-  * Inventaire: **F2**
-  * Console: **F8**
-
-## - Autres
-### Droit administrateur
+    
+## - Droit administrateur
 * #### FXServer:
   * Connecté vous sur votre serveur 
   * Dans la cosole du serveur **CMD Windows** taper la commande **status**
@@ -61,3 +54,8 @@ Pack FXServer pré-configuré pour Windows
   * Dans la base de données **fxserver** table **users** colonne **group** remplacer **user** par **superadmin**
   
   ![Alt Text](https://i.ibb.co/r3R4RSf/admin.png)
+
+## - En jeu
+* #### Touche:
+  * Inventaire: **F2**
+  * Console: **F8**
