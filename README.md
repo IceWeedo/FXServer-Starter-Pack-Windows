@@ -46,7 +46,7 @@ Pack FXServer pré-configuré pour Windows
  
 ## - Droit administrateur
 * #### FXServer:
-  * Connectez-vous au panel **txAdmin** de votre serveur [ici](http://localhost:40120/)
+  * Connectez-vous au panel **txAdmin** [ici](http://localhost:40120/)
   
   
   * Cliquez sur votre nom dans la liste de droite
