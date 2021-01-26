@@ -21,10 +21,13 @@ Pack FXServer pré-configuré pour Windows
   * Télécharger l'archive [ici](https://github.com/IceWeedo/FiveM-FXServer-Starter-Pack/releases/latest)
   * Extraire l'archive à la racine de votre disque local **C:**
     * (C:/xampp)
+    
   * Installer les redistribuables
     * (C:/xampp/_commonredist)
+    
   * Exécuter xampp-control
     * (C:/xampp/xampp-control.exe)
+    
   * Démarrer MySQL et Apache
   
   ![xampp](https://i.ibb.co/rvwWvnY/xampp.png)
@@ -33,12 +36,14 @@ Pack FXServer pré-configuré pour Windows
   * Télécharger l'archive [ici](https://github.com/IceWeedo/FiveM-FXServer-Starter-Pack/releases/latest)
   * Extraire l'archive à la racine de votre disque local **C:**
     * (C:/FXServer)
+    
   * Modifier le fichier **server.cfg** avec vos informations: **Nom du serveur**, [Clé FiveM](https://keymaster.fivem.net), [Clé API Steam](https://steamcommunity.com/dev/apikey)
     * (C:/FXServer/server.cfg)
+    
   * Ouvrire le port **30120** en **TCP/UDP** dans le pare-feu Windows et votre box internet
   * Exécuter run.bat
     * (C:/FXServer/run.bat)
-    
+     
 ## - Droit administrateur
 * #### FXServer:
   * Connecter vous au panel **txAdmin** de votre serveur [ici](http://localhost:40120/)
@@ -48,8 +53,10 @@ Pack FXServer pré-configuré pour Windows
   
   * Ajouter la ou les lignes suivante dans le fichier **server.cfg** section **# Add system admins**
     * (C:/FXServer/server.cfg)
+    
   * Utilisateur Steam:
-    * **add_principal identifier.steam:xxxxxxxxxxxxxx group.admin**  
+    * **add_principal identifier.steam:xxxxxxxxxxxxxx group.admin**
+    
   * Utilisateur non-Steam:
     * **add_principal identifier.license:xxxxxxxxxxxxxxxxxxxxxxxxxxxx group.admin**
       
