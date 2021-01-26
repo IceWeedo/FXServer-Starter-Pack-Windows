@@ -21,21 +21,21 @@ Pack FXServer pré-configuré pour Windows
   * Extraire l'archive à la racine de votre disque local **C:**
     * (C:/xampp)
   * Installer les redistribuables
-    * (xampp/_commonredist)
+    * (C:/xampp/_commonredist)
   * Exécuter xampp-control
-    * (xampp/xampp-control.exe)
+    * (C:/xampp/xampp-control.exe)
   * Démarrer MySQL et Apache
     * (Start)
   
 * #### Serveur:
   * Télécharger l'archive [ici](https://github.com/IceWeedo/FiveM-FXServer-Starter-Pack/releases/latest)
   * Extraire l'archive à la racine de votre disque local **C:**
-    * (C:\FXServer)
+    * (C:/FXServer)
   * Modifier le fichier **server.cfg** avec vos informations: Nom du serveur, [Clé FiveM](https://keymaster.fivem.net), [Clé API Steam](https://steamcommunity.com/dev/apikey)...
-    * (FXServer\server-data\server.cfg)
+    * (C:/FXServer/server.cfg)
   * Ouvrire le port **30120** en **TCP/UDP** dans le pare-feu Windows et votre box internet
   * Exécuter run.bat
-    * (FXServer\server-data\run.bat)
+    * (C:/FXServer/run.bat)
 
 ## - En jeu
 ### Fonctionnalité
