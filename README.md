@@ -50,11 +50,9 @@ Pack FXServer pré-configuré pour Windows
     * (C:/FXServer/server.cfg)
   
     * Utilisateur Steam:
-    
       **add_principal identifier.steam:xxxxxxxxxxxxxx group.admin**
     
     * Utilisateur non-Steam:
-    
       **add_principal identifier.license:xxxxxxxxxxxxxxxxxxxxxxxxxxxx group.admin**
       
   ![CMD](https://i.ibb.co/LhFGN2P/servercfg-admin.png)
