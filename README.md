@@ -18,7 +18,7 @@ Pack FXServer pré-configuré pour Windows
 
 ## - Installation
 * #### Base de données:
-  * Télécharger l'archive [ici](https://mega.nz/file/otMjzSRS#LKHTFlxF6j4W5GckBOI_iNRpvmtlR-5-pfinQ7Fs95M)
+  * Télécharger l'archive [ici](https://github.com/IceWeedo/FiveM-FXServer-Starter-Pack/releases/latest)
   * Extraire l'archive à la racine de votre disque local **C:**
     * (C:/xampp)
   * Installer les redistribuables
