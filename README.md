@@ -26,7 +26,7 @@ Pack FXServer pré-configuré pour Windows
   * Exécuter xampp-control
     * (C:/xampp/xampp-control.exe)
   * Démarrer MySQL et Apache
-  ![xampp](https://i.ibb.co/rvwWvnY/xampp.png)
+ ![xampp](https://i.ibb.co/rvwWvnY/xampp.png)
     
 ##
 * #### Serveur:
