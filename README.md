@@ -60,7 +60,7 @@ Pack FXServer pré-configuré pour Windows
 * #### ES eXtended:
   * Dans la base de données **es_extended** table **users** colonne **group** remplacer **user** par **superadmin**
   
-  ![Alt Text](https://i.ibb.co/fX3QvV4/xampp-admin.png)
+  ![Alt Text](https://i.ibb.co/LnGDyM1/xampp-admin.png)
 
 ## - En jeu
 * #### Touche:
