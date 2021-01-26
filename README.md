@@ -41,7 +41,7 @@ Pack FXServer pré-configuré pour Windows
     
 ## - Droit administrateur
 * #### FXServer:
-  * Connecter vous au panel **txAdmin** de votre serveur [ici](http://127.0.0.1:40120/)
+  * Connecter vous au panel **txAdmin** de votre serveur [ici](http://localhost:40120/)
   
   ![CMD](https://i.ibb.co/rc9Qhj5/txadmin-id.png)
   
@@ -60,7 +60,7 @@ Pack FXServer pré-configuré pour Windows
   * Redémarrer votre serveur
 
 * #### ES eXtended:
-  * Connecter vous au panel **phpMyAdmin** [ici](http://127.0.0.1/phpmyadmin/)
+  * Connecter vous au panel **phpMyAdmin** [ici](http://localhost/phpmyadmin/)
   * Dans la base de données **es_extended** table **users** colonne **group** remplacer **user** par **superadmin**
   
   ![Alt Text](https://i.ibb.co/vw8PvvY/xampp-admin.png)
