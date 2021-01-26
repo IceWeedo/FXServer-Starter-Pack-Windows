@@ -4,6 +4,7 @@ Pack FXServer pré-configuré pour Windows
 ## - Contenu du pack
 * #### Base:
   * FXServer **Build 3404**
+  * txAdmin **3.2.3**
   * Xampp **7.4.14**
 
 * #### Ressources:
