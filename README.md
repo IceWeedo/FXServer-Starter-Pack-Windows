@@ -56,7 +56,7 @@ Pack FXServer pré-configuré pour Windows
     
       **add_principal identifier.license:xxxxxxxxxxxxxxxxxxxxxxxxxxxx group.admin**
       
-  ![CMD](https://i.ibb.co/VM0G22q/servercfg-admin.png)
+  ![CMD](https://i.ibb.co/LhFGN2P/servercfg-admin.png)
      
   * Redémarrer votre serveur
 
